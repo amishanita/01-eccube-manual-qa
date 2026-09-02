@@ -1,0 +1,29 @@
+{
+  "project": "EC-CUBE Manual QA Testing & Bug Reporting",
+  "project_type": "Personal QA Portfolio Project",
+  "application": "EC-CUBE 4.2.3 Demo Site",
+  "environments": [
+    {
+      "environment_id": "ENV-EC-001",
+      "type": "Public shared demo environment",
+      "base_url": "https://ec-cube.sakura.ne.jp/4-2-demo/",
+      "application_version": "EC-CUBE 4.2.3",
+      "browser": "Google Chrome (version to be recorded)",
+      "os": "macOS 15.2 (build 24C101)",
+      "device": "MacBook Pro",
+      "resolution": "3024x1964 Retina"
+    },
+    {
+      "environment_id": "ENV-EC-002",
+      "type": "Public shared demo environment (mobile)",
+      "base_url": "https://ec-cube.sakura.ne.jp/4-2-demo/",
+      "application_version": "EC-CUBE 4.2.3",
+      "browser": "Google Chrome for iOS",
+      "os": "iOS (version to be recorded)",
+      "device": "iPhone (model to be recorded)",
+      "resolution": "To be recorded"
+    }
+  ],
+  "execution_status": "No actual execution data entered",
+  "test_cases": []
+}
