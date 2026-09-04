@@ -1,0 +1,32 @@
+File ID,Filename,Description,Test Date,Device,Browser,Screenshot Type,Feature Tested,Status
+MOB-003,MOB-003-registration-form.png,Registration form showing all input fields and validation,2026-09-01,iPhone,Chrome iOS,Mobile,Guest registration form,Original
+MOB-004,MOB-004-cart-page.png,Shopping cart page with 2 products and 5-step checkout progress,2026-09-01,iPhone,Chrome iOS,Mobile,Cart display & totals,Original
+MOB-005,MOB-005-cart-variations.png,Cart showing product variations (flavor and size selection),2026-09-01,iPhone,Chrome iOS,Mobile,Variation display,Original
+MOB-006,MOB-006-registration-form-second-try.png,Registration form step 2 with postal code lookup,2026-09-01,iPhone,Chrome iOS,Mobile,Postal code lookup,Original
+MOB-007,MOB-007-home-page-banner.png,Home page banner with ice cream imagery and navigation,2026-09-02,iPhone,Chrome iOS,Mobile,Home page display,Extended
+MOB-008,MOB-008-product-detail-gelato.png,Product detail page for gelato cube with price range,2026-09-02,iPhone,Chrome iOS,Mobile,Product detail page,Extended
+MOB-009,MOB-009-product-variations.png,Product variations selector for flavor and size,2026-09-02,iPhone,Chrome iOS,Mobile,Variation selection,Extended
+MOB-010,MOB-010-cart-single-item-37950.png,Shopping cart with single item (¥37,950),2026-09-02,iPhone,Chrome iOS,Mobile,Cart functionality,Extended
+MOB-011,MOB-011-add-to-cart-modal.png,Confirmation modal for adding item to cart,2026-09-02,iPhone,Chrome iOS,Mobile,Add to cart modal,Extended
+MOB-012,MOB-012-cart-dual-items-39050.png,Shopping cart with 2 items totaling ¥39,050,2026-09-02,iPhone,Chrome iOS,Mobile,Cart with multiple items,Extended
+MOB-013,MOB-013-mobile-menu-open.png,Mobile hamburger menu showing navigation options,2026-09-02,iPhone,Chrome iOS,Mobile,Mobile menu navigation,Extended
+MOB-014,MOB-014-registration-validation-error.png,Registration form with validation error message,2026-09-02,iPhone,Chrome iOS,Mobile,Form validation,Extended
+MOB-015,MOB-015-registration-form-basic.png,Registration form basic info section,2026-09-02,iPhone,Chrome iOS,Mobile,Registration form,Extended
+MOB-016,MOB-016-registration-form-keyboard.png,Registration form with keyboard input,2026-09-02,iPhone,Chrome iOS,Mobile,Form input handling,Extended
+MOB-017,MOB-017-login-page.png,Login page with email and password fields,2026-09-02,iPhone,Chrome iOS,Mobile,Login functionality,Extended
+MOB-018,MOB-018-product-detail-pouch.png,Product detail for pouch item (¥1,100),2026-09-02,iPhone,Chrome iOS,Mobile,Product detail,Extended
+MOB-019,MOB-019-cart-pouch-1100.png,Cart showing pouch item at ¥1,100,2026-09-02,iPhone,Chrome iOS,Mobile,Cart display,Extended
+MOB-020,MOB-020-cart-quantity-controls.png,Cart with quantity adjustment controls,2026-09-02,iPhone,Chrome iOS,Mobile,Quantity controls,Extended
+MOB-021,MOB-021-product-added-confirmation.png,Add to cart success modal,2026-09-02,iPhone,Chrome iOS,Mobile,Add to cart confirmation,Extended
+MOB-022,MOB-022-registration-step2-address.png,Registration form address section with postal lookup,2026-09-02,iPhone,Chrome iOS,Mobile,Address input & postal code,Extended
+MOB-023,MOB-023-registration-form-complete.png,Registration form with all fields displayed,2026-09-02,iPhone,Chrome iOS,Mobile,Complete registration form,Extended
+MOB-024,MOB-024-error-page-connection.png,Error page showing connection closed,2026-09-02,iPhone,Chrome iOS,Mobile,Error handling,Extended
+MOB-025,MOB-025-cart-pouch-2200-quantity.png,Cart with pouch item quantity adjusted (¥2,200 x2),2026-09-02,iPhone,Chrome iOS,Mobile,Quantity update,Extended
+MOB-026,MOB-026-mobile-menu-categories.png,Mobile menu showing category options,2026-09-02,iPhone,Chrome iOS,Mobile,Category navigation,Extended
+MOB-027,MOB-027-product-detail-test-1100.png,Product detail page for test product (¥1,100),2026-09-02,iPhone,Chrome iOS,Mobile,Product detail variation,Extended
+MOB-028,MOB-028-home-carousel-banner.png,Home page carousel banner with gelato imagery,2026-09-02,iPhone,Chrome iOS,Mobile,Home carousel,Extended
+MOB-029,MOB-029-product-carousel-gelato.png,Product carousel showing multiple gelato options,2026-09-02,iPhone,Chrome iOS,Mobile,Product carousel,Extended
+MOB-030,MOB-030-cart-empty-to-checkout.png,Shopping cart ready for checkout transition,2026-09-02,iPhone,Chrome iOS,Mobile,Cart checkout flow,Extended
+MOB-031,MOB-031-guest-checkout-option.png,Guest purchase option displayed at checkout,2026-09-02,iPhone,Chrome iOS,Mobile,Guest checkout option,Extended
+MOB-032,MOB-032-login-email-password.png,Login page with email and password input fields,2026-09-02,iPhone,Chrome iOS,Mobile,Login form,Extended
+MOB-033,MOB-033-registration-step2-address-fields.png,Registration form step 2 with complete address fields,2026-09-02,iPhone,Chrome iOS,Mobile,Address registration,Extended

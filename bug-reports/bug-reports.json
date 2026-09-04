@@ -1,0 +1,22 @@
+{
+  "project": "EC-CUBE Manual QA Testing & Bug Reporting",
+  "application": "EC-CUBE 4.2.3 Demo Site",
+  "bug_reports": [],
+  "verified_non_defects": [
+    {
+      "observation_id": "NDF-001",
+      "title": "Header icons rendered as empty boxes on mobile",
+      "first_observed": "2026-09-02 08:33 JST",
+      "initial_environment": "In-app browser within the Claude iOS application",
+      "verification_environment": "ENV-EC-002, Google Chrome for iOS",
+      "verification_result": "Icons rendered correctly in Google Chrome for iOS. The person, favourites, login, and cart icons all displayed as intended.",
+      "conclusion": "Not a defect. The rendering issue was caused by the in-app browser used for the initial observation, not by the application.",
+      "evidence": [
+        "MOB-001-inapp-browser-icons.png",
+        "MOB-002-chrome-ios-icons.png"
+      ],
+      "note": "Recorded to document that a suspected issue was investigated and correctly ruled out before being raised as a defect."
+    }
+  ],
+  "note": "No defect reports have been added because no reproducible defects have been confirmed."
+}

@@ -1,0 +1,34 @@
+{
+  "project": "EC-CUBE Manual QA Testing & Bug Reporting",
+  "data_policy": "Use fictional test data only. Do not store real personal data, payment details, credentials, tokens, cookies, or sensitive information.",
+  "test_data": {
+    "search_keywords": [],
+    "invalid_search_keywords": [],
+    "customer_data": {
+      "last_name": "テスト",
+      "first_name": "太郎",
+      "last_name_kana": "テスト",
+      "first_name_kana": "タロウ",
+      "company": "",
+      "email": "qa.test.example@example.test",
+      "telephone": "090-0000-0000",
+      "postal_code": "1000001",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "street": "テスト1-2-3",
+      "password": "QaDemo!Test2026"
+    },
+    "invalid_customer_data": {
+      "kana_romaji_last": "ramu",
+      "kana_romaji_first": "amsu",
+      "malformed_email": "test@@test"
+    },
+    "boundary_values": {
+      "cart_quantity_minimum": 1,
+      "password_min_length": 12,
+      "password_max_length": 50,
+      "password_rule": "半角英数記号12〜50文字"
+    }
+  },
+  "note": "Search keyword arrays are empty because the search feature has not yet been executed and observed."
+}

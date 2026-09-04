@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+.AppleDouble
+._*
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Office temp files
+~$*.xlsx
+~$*.docx
+*.tmp
+
+# Sensitive - never commit
+*credentials*
+*password*
+*secret*
+*token*
+.env
+.env.*
+cookies.txt
+
+# Raw unrenamed screenshots
+# Rename to ENV-/FEAT-/TC-/BUG- before committing
+Screenshot*.png
+Screen Shot*.png
+IMG_*.png
+Untitled*.png
+
+# Large video source files
+*.mov
+*.avi
